@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijesh Prajapati
 - 👀 I’m interested in Development and Open Source
 - 🌱 I’m currently learning Web Dev and Cloud
-- 💞️ I’m looking to collaborate on Open source project and learn new things
+- 💞️ I’m looking to collaborate on Open source projects and learn new things
 
 
 <!---
